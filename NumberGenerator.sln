@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGenerator", "NumberGenerator\NumberGenerator.csproj", "{09777934-5CAF-4EA1-94BE-9C7F8DEB43B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09777934-5CAF-4EA1-94BE-9C7F8DEB43B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09777934-5CAF-4EA1-94BE-9C7F8DEB43B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09777934-5CAF-4EA1-94BE-9C7F8DEB43B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09777934-5CAF-4EA1-94BE-9C7F8DEB43B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F25A109-6CAD-4C97-8CA8-6276A3946639}
+	EndGlobalSection
+EndGlobal
